@@ -82,3 +82,6 @@ Error: Cannot find module 'D:\ESGI\L3\S2\Outil et pratique du code\TP_Note\node_
 Ce problème n'a pas pu être réglé.
 
 <h4>5 Mise en place de GitHub Actions</h4>
+2. Le code n'a pas été bloqué lors du commit malgré l'ajout d'erreur 
+
+3. La pull request puis le merge a bien fonctionné sans conflits dans le code
