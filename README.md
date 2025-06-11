@@ -82,3 +82,7 @@ Error: Cannot find module 'D:\ESGI\L3\S2\Outil et pratique du code\TP_Note\node_
 Ce problème n'a pas pu être réglé.
 
 <h4>5 Mise en place de GitHub Actions</h4>
+3. Une erreur apparait lors du test de npm run lint, comme ce qu'on a obenu en local lors de notre test
+
+<h4>6 Simulation d’un travail d’équipe</h4>
+
